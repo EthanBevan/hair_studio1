@@ -439,6 +439,9 @@
 }
 
 .wpforms-container button[type=submit] {
+	border: 2px solid white;
+	color: white;
+	background: transparent;
 }
 
 .wpforms-container .wpforms-submit-spinner {
